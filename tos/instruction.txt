@@ -1,0 +1,7 @@
+Hello, its market instraction:
+
+1) Install ToS
+2) Go to market 
+3) Input name of file + .py
+4) Add it to 'main.py'
+P.s You must know Python ;)
